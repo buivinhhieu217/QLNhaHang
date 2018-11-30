@@ -1,0 +1,12 @@
+c:\users\hieu\documents\visual studio 2015\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+c:\users\hieu\documents\visual studio 2015\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+c:\users\hieu\documents\visual studio 2015\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+c:\users\hieu\documents\visual studio 2015\Projects\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csprojResolveAssemblyReference.cache
+c:\users\hieu\documents\visual studio 2015\Projects\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fLogin.resources
+c:\users\hieu\documents\visual studio 2015\Projects\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+c:\users\hieu\documents\visual studio 2015\Projects\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.Cache
+c:\users\hieu\documents\visual studio 2015\Projects\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+c:\users\hieu\documents\visual studio 2015\Projects\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+c:\users\hieu\documents\visual studio 2015\Projects\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fTableManager.resources
+c:\users\hieu\documents\visual studio 2015\Projects\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAccountProfile.resources
+c:\users\hieu\documents\visual studio 2015\Projects\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAdmin.resources
